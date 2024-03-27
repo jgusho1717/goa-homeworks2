@@ -42,6 +42,7 @@
 # print(3.9==3.9)
 # print(52.2==52.2)
 
+
 # num1 = (input("enter a number"))
 # num2 = (input("enter second number"))
 # print(num1 > num2)
@@ -61,7 +62,10 @@
 
 #homework n9 done
 
-num1 = (input("enter a number:"))
-num2 = (input("enter second number:"))
+num1 = input("enter a number:")
+num2 = input("enter second number:")
 # print(num1 == num2)
 print(num1 != num2)
+
+#end
+
